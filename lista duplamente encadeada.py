@@ -42,13 +42,3 @@ class listaduplamenteencadeada
 
 
         
-lde = listaduplamenteencadeada()      
-
-lde.append(5)
-lde.append(10)
-lde.append(15)
-lde.append(20)
-
-lde.inverter()
-
-print lde.printlista(lde.head)
